@@ -1,5 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import PokemonList from "./PokemonList";
+import PokemonCArd from "./PokemonCard";
 
 function App() {
   return (
@@ -18,6 +20,10 @@ function App() {
           Learn React
         </a>
       </header>
+      <PokemonList />
+      <br />
+      <h2>Pokédex</h2>
+      <PokemonCArd />
     </div>
   );
 }

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "type": "Plante",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "detail": "Taille: 0.7 m, Poids: 6.9 kg"
+  },
+  {
+    "id": 2,
+    "name": "Charmander",
+    "type": "Feu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "detail": "Taille: 0.6 m, Poids: 8.5 kg"
+  },
+  {
+    "id": 3,
+    "name": "Wartortle",
+    "type": "Eau",
+    "image": "https://i.etsystatic.com/6974760/r/il/0dd6af/529883102/il_75x75.529883102_mb70.jpg",
+    "detail": "Taille: 1.0 m, Poids: 22.5 kg"
+  },
+  {
+    "id": 4,
+    "name": "Ivysaur",
+    "type": "Plante",
+    "image": "https://i.etsystatic.com/6974760/r/il/e40859/529931625/il_75x75.529931625_el9x.jpg",
+    "detail": "Taille: 1.0 m, Poids: 13.0 kg"
+  },
+  {
+    "id": 5,
+    "name": "Pichu",
+    "type": "Electricité",
+    "image": "https://i.imgur.com/uur2y.png",
+    "detail": "Taille: 0.3 m, Poids: 2.0 kg"
+  }
+]
