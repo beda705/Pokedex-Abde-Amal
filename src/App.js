@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import PokemonList from "./PokemonList";
-import PokemonCArd from "./PokemonCard";
+import PokemonCard from "./PokemonCard";
 
 function App() {
   return (
@@ -23,7 +23,7 @@ function App() {
       <PokemonList />
       <br />
       <h2>Pokédex</h2>
-      <PokemonCArd />
+      <PokemonCard />
     </div>
   );
 }

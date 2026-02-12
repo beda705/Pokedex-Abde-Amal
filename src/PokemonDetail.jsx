@@ -1,10 +1,10 @@
 import { useState } from "react";
 
 export default function PokemonDetail({ detail }) {
-  const [msg, setDet] = useState(true);
+  const [msg, setmsg] = useState(true);
 
   function afficher() {
-    setDet(!msg);
+    setmsg(!msg);
   }
 
   return (
